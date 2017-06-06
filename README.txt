@@ -1,0 +1,14 @@
+# Me myself and the Internet
+
+Ein Projekt von Selina Cadruvi, BA Objektdesign, 2. Semester, Hochschule Luzern, Juni 2017
+
+**Die Website ist optimiert für das iPad.**
+
+
+AufgabeDas Thema des Hauptprojekts im IDA Modul «Digital Design: Re-Thinking The Web-Standards» ist «Me, Myself and the Internet». Es sollen Datenspuren, die wir selbst im Internet hinterlassen, visuell in Form einer Website dargestellt werden.KonzeptAlles, was wir im Internet anschauen und suchen, wird irgendwo gespeichert. Seiten, die wir aufrufen, Objekte, die wir in Onlineshops kaufen und Musik, die wir hören. Anhand dieser Daten werden Profile über uns erstellt. Bei so vielem, das über mich erfasst wird, will ich mich darauf konzentrieren, was nicht gespeichert wird. Meine Emotionen die ich empfinde, im Moment der Benutzung. Die Relevanz der Aktivität und wie viele Personen aktiv, mit mir zusammen, an der Nutzung beteiligt sind. Das Internet ist durch Mobilgeräte ortsunabhängig geworden. Das hat meinen Lebensstil verändert und ich nutze das Internet überall, egal in welchem Kontext. Das Internet ist sehr flüchtig. Kaum habe ich etwas angeschaut, beschäftigt mich schon das Nächste. Die Spuren, die ich hinterlassen, bleiben zwar nicht lange im Gedächtnis, jedoch lange irgendwo im Netz gespeichert. Diese Schnelllebigkeit im Umgang mit dem Internet steht im Gegensatz zu der konsequenten und ganzheitlichen Erfassung meiner Daten.UmsetzungIch habe in einem Zeitraum von ca. zwei Wochen bei jeder Nutzung des Internets diese Daten in einer Tabelle eingetragen. Bei wiederholter Verwendung, im gleichen Kontext, ist es ein Eintrag. So entsteht eine Übersicht über mein persönliches Verhältnis zum Internet. Die Daten sind subjektiv und die Darstellung soll deshalb emotional wirken. Um das zu erreichen, suchte ich für jeden Begriff eine passende Form und Farbe und habe ihn mit Acrylfarbe gemalt. Anschliessend ordnete ich die Fragmente in einem Raster überlagernd an. Für jede Benutzung des Internets entstand so ein Element, das mithilfe eines Schlüssels «gelesen» werden kann. Alle diese Elemente zusammen ergeben eine ornamentale Grafik, die meine häufige und unbedachte Benutzung des Internets darstellt. Im Gegensatz dazu kann der Betrachter, wenn er sich Zeit nimmt, viele persönliche Daten von mir herausfinden. FazitIm IDA Modul haben wir uns primär mit Technischem auseinandergesetzt: Wir lernten die Grundlagen von html, css und jQuery. Anschliessend mussten wir das Gelernte sehr selbstständig anwenden. Dabei war für mich die technische Umsetzung die grösste Herausforderung. Diese Kenntnisse öffnen mir nun die Türe zu einer neuen Welt. Es fasziniert mich, wie der zuerst abschreckend wirkende Code beginnt Sinn zu ergeben und im Browser visuell dargestellt wird.
+
+
+Ordner-Architektur
+- css
+- img
+- js
